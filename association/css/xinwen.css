@@ -1,0 +1,9 @@
+.content_text{
+    width: 1270px;
+    margin: 0 auto;
+    border-bottom: 1px dashed black;
+    margin-bottom: 30px;
+}
+.content_text .content_text_title{
+    color: rgb(0, 144, 0);
+}

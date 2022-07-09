@@ -1,0 +1,21 @@
+.content_text{
+    width: 1270px;
+    height: 320px;
+    margin: 30px auto;
+    border-bottom: 1px dashed black;
+}
+
+.content_text img{
+    width: 336px;
+    height: 222px;
+    margin-top: 30px;
+}
+.content_text_t{
+    margin-top: 50px;
+}
+.content_text .content_text_title,.content_text_p{
+    width: 750px;
+}
+.content_text_title{
+    color: rgb(0, 144, 0);
+}
