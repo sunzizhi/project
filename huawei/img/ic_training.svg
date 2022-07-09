@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>ic_training</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_training" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形备份-1" fill="#C9DDF5" x="0" y="0" width="56" height="56" rx="12"></rect>
+            <circle id="椭圆形" stroke="#0254B8" stroke-width="2" cx="28" cy="28" r="17"></circle>
+            <path d="M34.999725,28.0274335 L34.9993744,27.9926205 C35.0013503,27.7232778 34.8506699,27.469053 34.5946177,27.3266567 L25.2791282,22.1116742 C25.0114138,21.9627753 24.6782947,21.9627753 24.4060956,22.1141535 C24.1509834,22.2543364 23.9987558,22.5088813 24,22.7836243 L23.9999496,33.218405 C23.9972657,33.4856017 24.1480829,33.7377882 24.4299377,33.8913617 C24.5516181,33.9626351 24.6928225,34.00051 24.8412725,34.0000001 C24.9917094,34.0000767 25.1387983,33.9609725 25.280112,33.8797647 L34.5951943,28.7125714 C34.8552543,28.5672108 35.0073286,28.3040552 34.999725,28.0274335 Z" id="路径" stroke="#0254B8" stroke-width="2" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

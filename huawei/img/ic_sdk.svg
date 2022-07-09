@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>ic_sdk</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_sdk" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形-1" fill="#D4E9F0" x="0" y="0" width="56" height="56" rx="12"></rect>
+            <rect id="Rectangle" stroke="#1D5E75" stroke-width="2" x="9" y="17" width="38" height="27" rx="3"></rect>
+            <text id="SDK" font-family="HuaweiSans-Bold, Huawei Sans" font-size="14" font-weight="bold" fill="#1D5E75">
+                <tspan x="14.6425781" y="36">SDK</tspan>
+            </text>
+            <path d="M18,17 L18,15 C18,12.790861 19.790861,11 22,11 L34,11 C36.209139,11 38,12.790861 38,15 L38,17 L38,17" id="Path-9" stroke="#1D5E75" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>

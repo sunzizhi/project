@@ -1,0 +1,296 @@
+* {
+	padding: 0;
+	margin: 0;
+	/* box-sizing: border-box; */
+}
+
+button {
+	background: none;
+	border: 0;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+	width: 50px;
+	height: 50px;
+}
+
+.carousel-item {
+	position: relative;
+}
+
+.carousel-item .car-t {
+	position: absolute;
+	left: 17%;
+	top: 10%;
+}
+
+.carousel-item .car-t img {
+	height: 130px;
+}
+
+.carousel-item .car-t p {
+	/* position: absolute;
+	left: 70%; */
+	font-size: 50px;
+	font-weight: 300;
+	color: white;
+}
+
+.carousel-item .car-c {
+	position: absolute;
+	left: 38%;
+	top: 20%;
+}
+
+.carousel-item .car-c p {
+	font-size: 50px;
+	font-weight: 300;
+	color: white;
+	margin-left: -20%;
+}
+
+.carousel {
+	position: relative;
+}
+
+.carousel .car-banner-nav {
+	z-index: 100;
+	position: absolute;
+	top: 20px;
+	left: 50px;
+	width: 100%;
+}
+
+.carousel .car-banner-nav a {
+	/* text-align: right; */
+	margin-right: 5%;
+}
+
+/* .c-f {
+	background-image: url(../img/数字北京/introduction-bg.png);
+	padding: 130px 0;
+	overflow: hidden;
+}
+
+.c-f .container-fluid {
+	width: 90%;
+	margin: 0 auto;
+
+}
+
+.c-f img {
+	
+	transition: all 0.6s;
+	
+}
+
+.c-f img:hover {
+	transform: scale(1.1);
+}
+
+.c-f .col-ba {
+	padding-bottom: 130px;
+}
+
+.c-f .col-ba p {
+	margin-left: 15px;
+}
+
+.col-xl-6 .row .col-xl-6 {
+	padding: 0;	
+}
+.c-bottom .row{
+	display: flex;
+	justify-content: space-around;
+}
+.c-bottom .row .c-x,.c-d{
+	width: 24%;
+	overflow: hidden;
+	height: 443px;
+}
+.c-bottom .row .c-x{
+	background-color: white;
+} */
+
+.c-f {
+	padding-top: 150px;
+}
+
+.c-f .c-f-top,
+.c-f-bottom {
+	width: 80%;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-around;
+}
+
+.c-f .c-f-top .c-f-top-left,
+.c-f-top-right {
+	width: 47%;
+	background-color: rgba(255, 255, 255, 0.5);
+	padding-bottom: 35px;
+}
+
+.c-f .c-f-top .c-f-top-right {
+	padding-top: 50px;
+	padding-left: 60px;
+}
+
+.c-f-b {
+	width: 21.5%;
+	position: relative;
+	transition: all 0.6s;
+	overflow: hidden;
+}
+
+.c-f-b:hover {
+	transform: scale(1.1);
+	overflow: hidden;
+}
+
+.c-f-b a:hover {
+	color: red;
+}
+
+.c-f-b .c-f-b-p {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	padding-top: 80%;
+}
+
+.c-f-b .c-f-b-p p,
+a {
+	padding-left: 10%;
+	color: white;
+	/* margin-top: 35px; */
+	text-decoration: none;
+	/* padding-top: 60%; */
+}
+
+.c-f-b .c-f-b-p p:nth-child(1) {
+	font-size: 22px;
+}
+
+.c-f-bottom-1 .c-f-b-p {
+	display: inline;
+	background-color: rgba(47, 47, 47, 0.3);
+	height: 100%;
+}
+
+.c-f-bottom-3 .c-f-b-p {
+	display: inline;
+	background-color: rgba(47, 47, 47, 0.3);
+	height: 100%;
+}
+
+.c-f-bottom-2,
+.c-f-bottom-4 {
+	background-color: white;
+}
+
+.c-f-b-x {
+	margin-top: 13%;
+}
+
+.c-f-b-x p:nth-child(1) {
+	font-size: 22px;
+	font-weight: 600;
+}
+
+.c-f-b-x p {
+	padding-left: 10%;
+	font-weight: 600;
+}
+
+.c-f-b-x a {
+	color: #000000;
+	text-decoration: none;
+}
+
+.bar-b {
+	padding-top: 120px;
+	background-image: url(../img/数字北京/introduction-bg.png);
+	padding-bottom: 150px;
+}
+
+.banner-bottom {
+	margin: 0 auto;
+	width: 80%;
+	position: relative;
+	background-color: rgba(22, 22, 22, 0.3);
+}
+
+.banner-bottom .img-t {
+	position: absolute;
+	top: 30%;
+	left: 35%;
+	z-index: 100;
+}
+
+.yy {
+	width: 100%;
+	height: 100%;
+	background-color: rgba(22, 22, 22, 0.3);
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+.img-p {
+	position: absolute;
+	top: 60%;
+	left: 35%;
+	font-size: 28px;
+	color: white;
+	z-index: 100;
+}
+
+.footer {
+	background-color: black;
+	color: white;
+	height: 45px;
+}
+
+.footer p {
+	line-height: 45px;
+	margin-bottom: 0;
+	text-align: center;
+}
+
+.back-to {
+	bottom: 55px;
+	overflow: hidden;
+	position: fixed;
+	right: 10px;
+	width: 110px;
+	z-index: 999;
+}
+
+.back-to .back-top {
+	background: url(../img/数字北京/top.png) no-repeat scroll 0 0 transparent;
+	display: block;
+	float: right;
+	height: 80px;
+	margin-left: 10px;
+	outline: 0 none;
+	text-indent: -9999em;
+	width: 50px;
+}
+
+.back-to .back-top:hover {
+	background-position: -50px 0;
+}
+.bar-b .banner-bottom .img-p span{	
+	display: block;
+	border: 2px solid white;
+	width:160px;
+	text-align: center;
+	margin:30px auto;
+	padding: 10px 20px;
+}
+.bar-b .banner-bottom .img-p a{
+	padding: 0;
+}
